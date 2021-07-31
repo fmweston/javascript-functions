@@ -1,6 +1,6 @@
-function seed(sa,b,c) {
-
-  return arguments;
+function seed() {
+  let myArray = arguments;
+  return myArray;
 }
 
 function same([x, y], [j, k]) {}
